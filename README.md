@@ -24,8 +24,12 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 echo "# calculator" >> README.md
+
 git init
 git add README.md
+
+git add . {to add all the files}
+git add filename [add particular file]
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/subu01/calculator.git
