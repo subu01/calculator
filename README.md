@@ -35,3 +35,5 @@ push existing
 git remote add origin https://github.com/subu01/calculator.git
 git branch -M main
 git push -u origin main
+
+this is a vue project
